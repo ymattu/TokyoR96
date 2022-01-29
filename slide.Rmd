@@ -53,7 +53,7 @@ options(dplyr.print_max = 1e9)
 ![icon](./slide_img/twitter_icon.jpg)
 </div>
 
-## 宣伝 {#advertise}
+## 宣伝 {#advertise2}
 #### **改訂2版 R ユーザのための RStudio[実践]入門 <br> − tidyverse によるモダンな分析フローの世界−**
 <div class="column1">
 ![rstudiobook](./slide_img/rstudiobook2.jpg)
